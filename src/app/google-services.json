@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141258990329",
+    "project_id": "tinko-94539",
+    "storage_bucket": "tinko-94539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141258990329:android:5702bad232aa96861e7828",
+        "android_client_info": {
+          "package_name": "com.example.tinko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141258990329-mt767br82is20aprm1u9voalg7n956fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQw8hqnWSvBIhfnLjRnzKG2M3K-OAMKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141258990329-mt767br82is20aprm1u9voalg7n956fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
